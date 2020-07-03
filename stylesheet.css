@@ -229,7 +229,7 @@ footer {
 }
 
 .footer-logo {
-  float: left;
+  /*float: left;*/
   color: #fff92d;
   font-size: 18px;
   font-weight: bold;
