@@ -1,7 +1,7 @@
 # HTML-CSS-Proyek-Tim-C21-Final
-CEB C21
-Muhamad Dwi Rochmansyah
-Muhammad Zainurrohim
-Firman Ali Nuryanto
-Erykka Yustari
-Budhi Adrianto
+<p>CEB C21</p>
+<p>Muhamad Dwi Rochmansyah</p>
+<p>Muhammad Zainurrohim</p>
+<p>Firman Ali Nuryanto</p>
+<p>Erykka Yustari</p>
+<p>Budhi Adrianto</p>
