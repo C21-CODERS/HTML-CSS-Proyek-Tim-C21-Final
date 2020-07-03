@@ -1,1 +1,7 @@
-# HTML-CSS-Proyek-Tim-Final
+# HTML-CSS-Proyek-Tim-C21-Final
+CEB C21
+Muhamad Dwi Rochmansyah
+Muhammad Zainurrohim
+Firman Ali Nuryanto
+Erykka Yustari
+Budhi Adrianto
