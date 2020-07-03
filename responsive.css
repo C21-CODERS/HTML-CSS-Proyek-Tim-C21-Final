@@ -1,0 +1,76 @@
+/* For Tablets */
+
+@media (max-width: 1000px) {
+  .contents-item {
+    /*width: 50%;*/
+    margin-bottom: 50px;
+  }
+
+  .top-wrapper h1 {
+    font-size: 32px;
+  }
+
+  .top-wrapper p {
+    font-size: 20px;
+  }
+
+  .our-service-images {
+    height: 150px;
+  }
+}
+
+
+/* For Smartphones */
+
+@media (max-width:670px) {
+  .container {
+    padding-left: 40px;
+  }
+  
+  .contents-item {
+    width: 100%;
+  }
+
+  .header-list {
+    display: none;
+  }
+
+  .menu-icon {
+    display: block;
+  }
+
+  .btn {
+    /*width: 100%;*/
+  }
+
+  .readourstory {
+    margin-bottom: 10px;
+  }
+
+  .watchourstory {
+    margin-bottom: 10px;
+  }
+
+  .top-wrapper {
+    text-align: left;
+    padding-top: 130px;
+  }
+
+  .top-wrapper h1 {
+    font-size: 24px;
+    line-height: 36px;
+  }
+
+  .top-wrapper p {
+    font-size: 14px;
+    line-height: 20px;
+  }
+
+  .contact-submit {
+    width: 60%;
+  }
+
+  footer {
+    text-align: center;
+  }
+}
